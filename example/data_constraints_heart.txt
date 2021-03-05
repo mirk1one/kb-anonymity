@@ -1,0 +1,14 @@
+age >= 18 <= 100
+sex == 0-1
+cp == 0-1-2-3
+trestbps >= 60 < 250
+chol >= 100 <= 600
+fbs == 0-1
+restecg == 0-1-2
+thalach >= 40 <= 250
+exang == 0-1
+oldpeak >= 0.0 <= 7.5
+slope == 0-1-2
+ca == 0-1-2-3
+thal == 1-2-3
+target == 0-1
